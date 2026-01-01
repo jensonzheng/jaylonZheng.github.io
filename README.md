@@ -1,6 +1,6 @@
-#郑江龙 Blog
+# Blog
 
-###[View Live 郑江龙 Blog &rarr;](http://huxpro.github.io)
+###[View Live Blog &rarr;](http://huxpro.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
